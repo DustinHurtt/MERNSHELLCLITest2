@@ -7,7 +7,7 @@ Welcome to the Mern Shell! A quick start for your MERN stack applications.
 1. Run the CLI using
 
 ```sh
-npx mern-shell-test2@latest # <your-app-name> 
+npx mern-shell-test3@latest # <your-app-name> 
 ```
 
 ## Help
@@ -15,9 +15,9 @@ npx mern-shell-test2@latest # <your-app-name>
 If you want to see the options you can always run one of these commands:
 
 ```sh
-npx mern-shell-test2@latest help
+npx mern-shell-test3@latest help
 # or
-npx mern-shell-test2@latest --help
+npx mern-shell-test3@latest --help
 ```
 
 
