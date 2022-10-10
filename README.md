@@ -1,6 +1,6 @@
 # MernShell generator
 
-Welcome to the mernshell! A quick start for your JavaScript applications.
+Welcome to the Mern Shell! A quick start for your MERN stack applications.
 
 ## Usage
 

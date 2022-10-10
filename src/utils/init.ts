@@ -9,7 +9,7 @@ export function init() {
   if (!mernshellConfig.devMode) {
     welcome({
       title: "MernShellGenerator",
-      tagLine: "by Ironhack",
+      tagLine: "by Dustin Hurtt",
       description: Package.description,
       bgColor: "#2DC5FA",
       color: "#000000",
